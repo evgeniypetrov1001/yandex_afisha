@@ -13,6 +13,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-
+# Игнорируем все ноутбуки, кроме финального
 *.ipynb
-!work.ipynb
+!b689e788-5b12-464d-9438-af0736e3047d.ipynb
